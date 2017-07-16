@@ -1,0 +1,7 @@
+package com.everis.curso;
+
+public class Tarjeta {
+	private int id;
+	private String nombre;
+	private String eMail;
+}

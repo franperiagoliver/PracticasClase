@@ -1,0 +1,5 @@
+package com.everis.curso;
+
+public interface Vehiculo {
+	static int velocidad;
+}

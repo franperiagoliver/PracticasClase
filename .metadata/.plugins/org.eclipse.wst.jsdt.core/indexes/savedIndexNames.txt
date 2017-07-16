@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Fran Durero\Documents\Workspaces Eclipse\Practicas-clase\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+841158026.index
+3212958569.index
+979599027.index
+2099041416.index
+4159960349.index
